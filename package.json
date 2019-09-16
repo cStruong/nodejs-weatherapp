@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cStruong/nodejs-weatherapp.git"
+  },
+  "keywords": [],
+  "author": "Christopher Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cStruong/nodejs-weatherapp/issues"
+  },
+  "homepage": "https://github.com/cStruong/nodejs-weatherapp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
